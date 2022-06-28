@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raghadsg
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me twitter my acc is @raghad_ghamdii
 
 <!---
 Raghadsg/Raghadsg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
